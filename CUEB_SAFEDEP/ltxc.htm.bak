@@ -1,0 +1,196 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>论坛宣传照片</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+
+
+
+<!--mstheme--><link rel="stylesheet" type="text/css" href="_themes/mstheme31476/msth1111-106.css"><meta name="Microsoft Theme" content="mstheme31476 1111, default">
+<meta name="Microsoft Border" content="tlrb, default">
+</head>
+
+<body><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<div id="img" style="position:absolute;">
+<a href="http://agx.cueb.edu.cn" target="_blank">
+<img src="images/float.gif" border="0" width="200" height="200"></a>
+</div>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+var xPos = 20;
+var yPos = document.body.clientHeight;
+var step = 1;
+var delay = 30; 
+var height = 0;
+var Hoffset = 0;
+var Woffset = 0;
+var yon = 0;
+var xon = 0;
+var pause = true;
+var interval;
+img.style.top = yPos;
+function changePos() {
+width = document.body.clientWidth;
+height = document.body.clientHeight;
+Hoffset = img.offsetHeight;
+Woffset = img.offsetWidth;
+img.style.left = xPos + document.body.scrollLeft;
+img.style.top = yPos + document.body.scrollTop;
+if (yon) {
+yPos = yPos + step;
+}
+else {
+yPos = yPos - step;
+}
+if (yPos < 0) {
+yon = 1;
+yPos = 0;
+}
+if (yPos >= (height - Hoffset)) {
+yon = 0;
+yPos = (height - Hoffset);
+}
+if (xon) {
+xPos = xPos + step;
+}
+else {
+xPos = xPos - step;
+}
+if (xPos < 0) {
+xon = 1;
+xPos = 0;
+}
+if (xPos >= (width - Woffset)) {
+xon = 0;
+xPos = (width - Woffset);
+   }
+   }
+   function start() {
+   img.visibility = "visible";
+   interval = setInterval('changePos()', delay);
+   }
+   start();
+   //  End -->
+   </script>
+
+
+
+<p align="left">
+　</p>
+<p align="left">
+　</p>
+
+
+<p align="left">
+　</p>
+
+
+<p align="left">
+　</p>
+
+
+<p align="center">
+&nbsp;<br>
+<script language="JavaScript"><!--
+MSFPhover = 
+  (((navigator.appName == "Netscape") && 
+  (parseInt(navigator.appVersion) >= 3 )) || 
+  ((navigator.appName == "Microsoft Internet Explorer") && 
+  (parseInt(navigator.appVersion) >= 4 ))); 
+function MSFPpreload(img) 
+{
+  var a=new Image(); a.src=img; return a; 
+}
+// --></script><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav1n=MSFPpreload("_derived/up_cmp_mstheme31476110_hbtn.gif"); MSFPnav1h=MSFPpreload("_derived/up_cmp_mstheme31476110_hbtn_a.gif"); }
+// --></script><a href="sthd.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="_derived/up_cmp_mstheme31476110_hbtn.gif" width="155" height="35" border="0" alt="上一层" align="middle" name="MSFPnav1"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav2n=MSFPpreload("_derived/2003yx.htm_cmp_mstheme31476110_hbtn.gif"); MSFPnav2h=MSFPpreload("_derived/2003yx.htm_cmp_mstheme31476110_hbtn_a.gif"); }
+// --></script><a href="2003yx.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src"><img src="_derived/2003yx.htm_cmp_mstheme31476110_hbtn.gif" width="155" height="35" border="0" alt="2003迎新晚会" align="middle" name="MSFPnav2"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav3n=MSFPpreload("_derived/2004yx.htm_cmp_mstheme31476110_hbtn.gif"); MSFPnav3h=MSFPpreload("_derived/2004yx.htm_cmp_mstheme31476110_hbtn_a.gif"); }
+// --></script><a href="2004yx.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3h.src" onmouseout="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3n.src"><img src="_derived/2004yx.htm_cmp_mstheme31476110_hbtn.gif" width="155" height="35" border="0" alt="2004迎新晚会" align="middle" name="MSFPnav3"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav4n=MSFPpreload("_derived/cgzp.htm_cmp_mstheme31476110_hbtn.gif"); MSFPnav4h=MSFPpreload("_derived/cgzp.htm_cmp_mstheme31476110_hbtn_a.gif"); }
+// --></script><a href="cgzp.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src"><img src="_derived/cgzp.htm_cmp_mstheme31476110_hbtn.gif" width="155" height="35" border="0" alt="参观照片" align="middle" name="MSFPnav4"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav5n=MSFPpreload("_derived/jz.htm_cmp_mstheme31476110_hbtn.gif"); MSFPnav5h=MSFPpreload("_derived/jz.htm_cmp_mstheme31476110_hbtn_a.gif"); }
+// --></script><a href="jz.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5h.src" onmouseout="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5n.src"><img src="_derived/jz.htm_cmp_mstheme31476110_hbtn.gif" width="155" height="35" border="0" alt="讲座" align="middle" name="MSFPnav5"></a> <img src="_derived/ltxc.htm_cmp_mstheme31476110_hbtn_p.gif" width="155" height="35" border="0" alt="论坛宣传照片" align="middle"> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav6n=MSFPpreload("_derived/ttzy.htm_cmp_mstheme31476110_hbtn.gif"); MSFPnav6h=MSFPpreload("_derived/ttzy.htm_cmp_mstheme31476110_hbtn_a.gif"); }
+// --></script><a href="ttzy.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6h.src" onmouseout="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6n.src"><img src="_derived/ttzy.htm_cmp_mstheme31476110_hbtn.gif" width="155" height="35" border="0" alt="氍毹之夜" align="middle" name="MSFPnav6"></a>
+</p>
+
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+
+<p>　</p>
+
+
+<p>　</p>
+
+
+<p style="margin-left: 92; margin-top: 50">
+<script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav7n=MSFPpreload("_derived/home_cmp_mstheme31477010_vbtn.gif"); MSFPnav7h=MSFPpreload("_derived/home_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="index.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav7'].src=MSFPnav7h.src" onmouseout="if(MSFPhover) document['MSFPnav7'].src=MSFPnav7n.src"><img src="_derived/home_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="主页" name="MSFPnav7"></a>
+</p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+<p><a href="images/P1050361.JPG">
+<img border="2" src="images/P1050361_small.JPG" xthumbnail-orig-image="images/P1050361.JPG" width="100" height="75"></a><a href="images/P1050362.JPG"><img border="2" src="images/P1050362_small.JPG" xthumbnail-orig-image="images/P1050362.JPG" width="100" height="75"></a><a href="images/P1050366.JPG"><img border="2" src="images/P1050366_small.JPG" xthumbnail-orig-image="images/P1050366.JPG" width="100" height="133"></a><a href="images/P1050373.JPG"><img border="2" src="images/P1050373_small.JPG" xthumbnail-orig-image="images/P1050373.JPG" width="100" height="75"></a><a href="images/P1050377.JPG"><img border="2" src="images/P1050377_small.JPG" xthumbnail-orig-image="images/P1050377.JPG" width="100" height="75"></a><a href="images/P1050381.JPG"><img border="2" src="images/P1050381_small.JPG" xthumbnail-orig-image="images/P1050381.JPG" width="100" height="75"></a></p>
+
+<p class="MsoNormal" style="text-indent: 54.2pt"><b>
+<span style="font-size: 18.0pt; font-family: 宋体">超越杯学术文化节——联合国环境写真展</span></b></p>
+<p class="MsoNormal" style="text-indent: 28.0pt">
+<span style="font-size: 14.0pt; font-family: 宋体">
+由首都经济贸易大学校团委主办，</span><span style="FONT-FAMILY: 宋体; font-size:14.0pt">安全与环境工程学院</span><span style="font-size: 14.0pt; font-family: 宋体">分团委、学生会承办的超越杯学术文化节——联合国环境写真展已于</span><span lang="EN-US" style="font-size:14.0pt">2004</span><span style="font-size: 14.0pt; font-family: 宋体">年</span><span lang="EN-US" style="font-size:14.0pt">5</span><span style="font-size: 14.0pt; font-family: 宋体">月</span><span lang="EN-US" style="font-size:14.0pt">17</span><span style="font-size: 14.0pt; font-family: 宋体">日至</span><span lang="EN-US" style="font-size:14.0pt">5</span><span style="font-size: 14.0pt; font-family: 宋体">月</span><span lang="EN-US" style="font-size:14.0pt">21</span><span style="font-size: 14.0pt; font-family: 宋体">日在学校报刊亭旁橱窗内展出。此次活动得到了联合国环境规划署以及国家环境保护总局环境宣传教育中心的大力支持。</span></p>
+<p class="MsoNormal" style="text-indent: 28.0pt">
+<span style="font-size: 14.0pt; font-family: 宋体">
+此次活动展出内容主要涉及水资源、能源危机、濒危动物和环境保护等主题。本次活动旨在加深同学们对于目前世界环境状况的认知，提高了同学们的环境危机感，唤醒大家对于环境保护的责任感和紧迫感。在为期一周的展出中，引起了同学们的广泛关注，并且受到了诸多好评。</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:14.0pt">&nbsp;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:14.0pt">&nbsp;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:14.0pt">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-size: 14.0pt; font-family: 宋体">首都经济贸易大学分团委、学生会</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:14.0pt">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2004</span><span style="font-size: 14.0pt; font-family: 宋体">年</span><span lang="EN-US" style="font-size:14.0pt">5</span><span style="font-size: 14.0pt; font-family: 宋体">月</span><span lang="EN-US" style="font-size:14.0pt">25</span><span style="font-size: 14.0pt; font-family: 宋体">日</span></p>
+
+<!--msnavigation--></td><td valign="top" width="24"></td><td valign="top" width="1%">
+<div align="right">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="10" height="650" id="AutoNumber1">
+    <tr>
+      <td width="2" height="336" valign="bottom"></td>
+    </tr>
+  </table>
+</div>
+<p>　</p>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<p align="center"><a href="http://www.cueb.edu.cn/">CUEB</a> | xxxx</p>
+
+
+
+<p align="center">
+
+
+
+<font size=2>
+
+如有关于本站点的问题或建议，请向<a href="mailto:safedep@cueb.edu.cn">safedep@cueb.edu.cn</a>发邮件。<br>
+
+
+版权所有(C) 2005 安全与环境工程学院<br>
+
+
+上次修改时间：2005年09月11日
+
+</font>
+
+</p>
+
+</td></tr><!--msnavigation--></table></body>
+
+</html>

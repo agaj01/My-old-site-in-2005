@@ -1,0 +1,170 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>工业工程</title>
+
+<!--mstheme--><link rel="stylesheet" type="text/css" href="_themes/mstheme31476/msth1111-106.css"><meta name="Microsoft Theme" content="mstheme31476 1111, default">
+<meta name="Microsoft Border" content="tlrb, default">
+</head>
+
+<body><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<div id="img" style="position:absolute;">
+<a href="http://agx.cueb.edu.cn" target="_blank">
+<img src="images/float.gif" border="0" width="200" height="200"></a>
+</div>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+var xPos = 20;
+var yPos = document.body.clientHeight;
+var step = 1;
+var delay = 30; 
+var height = 0;
+var Hoffset = 0;
+var Woffset = 0;
+var yon = 0;
+var xon = 0;
+var pause = true;
+var interval;
+img.style.top = yPos;
+function changePos() {
+width = document.body.clientWidth;
+height = document.body.clientHeight;
+Hoffset = img.offsetHeight;
+Woffset = img.offsetWidth;
+img.style.left = xPos + document.body.scrollLeft;
+img.style.top = yPos + document.body.scrollTop;
+if (yon) {
+yPos = yPos + step;
+}
+else {
+yPos = yPos - step;
+}
+if (yPos < 0) {
+yon = 1;
+yPos = 0;
+}
+if (yPos >= (height - Hoffset)) {
+yon = 0;
+yPos = (height - Hoffset);
+}
+if (xon) {
+xPos = xPos + step;
+}
+else {
+xPos = xPos - step;
+}
+if (xPos < 0) {
+xon = 1;
+xPos = 0;
+}
+if (xPos >= (width - Woffset)) {
+xon = 0;
+xPos = (width - Woffset);
+   }
+   }
+   function start() {
+   img.visibility = "visible";
+   interval = setInterval('changePos()', delay);
+   }
+   start();
+   //  End -->
+   </script>
+
+
+
+<p align="left">
+　</p>
+<p align="left">
+　</p>
+
+
+<p align="left">
+　</p>
+
+
+<p align="left">
+　</p>
+
+
+<p align="center">
+&nbsp;<br>
+
+</p>
+
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+
+<p>　</p>
+
+
+<p>　</p>
+
+
+<p style="margin-left: 92; margin-top: 50">
+
+</p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+
+<p class="MsoNormal" align="center" style="text-align: center"><b>
+<span style="font-size: 14.0pt; font-family: 黑体">工业工程（管理工程）专业</span></b></p>
+<p class="MsoNormal" align="center" style="text-align: center">
+<span style="font-size: 12.0pt; font-family: 宋体">（四年制·本科）</span></p>
+<p class="MsoNormal"><b><span style="font-size: 12.0pt; font-family: 宋体">培养目标：</span></b><span style="font-size: 12.0pt; font-family: 宋体">本专业培养适应社会主义市场经济需要、技术与管理相结合、能在企事业从事规划、设计、风险评价和创新等工作、具有较强实际工作能力和一定研究能力的德智体全面发展的高级专门人才。</span></p>
+<p class="MsoNormal">
+<span lang="EN-US" style="font-size: 12.0pt; font-family: 宋体">&nbsp;</span><b><span style="font-size: 12.0pt; font-family: 宋体">培养要求：</span></b><span style="font-size: 12.0pt; font-family: 宋体">本专业要求学生掌握马列主义、毛泽东思想、邓小平理论的基本原理，系统掌握工业工程暨管理工程专业领域的基础知识、基本理论和基本技能。本专业以机电工程为依托，强化现代管理技术，注重计算机的应用与开发，注重加强学生实际工作能力和创新能力的培养，要求学生能较熟练地掌握一门外国语。</span></p>
+<p class="MsoNormal">
+<span lang="EN-US" style="font-size: 12.0pt; font-family: 宋体">&nbsp;</span><b><span style="font-size: 12.0pt; font-family: 宋体">主要课程设置：</span></b><span style="font-size: 12.0pt; font-family: 宋体">本专业除开设政治理论课和外语、高等数学、物理学、化学、工程制图、计算机基础等公共基础课外，主要专业基础课和专业课有：机械制造工艺学、机械设计基础、计算机辅助设计、电工及电子技术、系统工程学、工程数学、运筹学、基础工业工程、设施规划与设计、质量管理与可靠性、现代制造系统、管理信息系统、人机工程学、工程经济、统计学、成本会计、生产计划与控制等。</span></p>
+<p class="MsoNormal">
+<span lang="EN-US" style="font-size: 12.0pt; font-family: 宋体">&nbsp;</span><b><span style="font-size: 12.0pt; font-family: 宋体">实践环节：</span></b><span style="font-size: 12.0pt; font-family: 宋体">工业工程是一门实践性很强的学科，本专业除课堂讲授外，将结合教学要求组织学生参加专业实习、毕业实习等实践教学活动。</span><span lang="EN-US" style="font-size: 12.0pt; font-family: 宋体">&nbsp;</span></p>
+<p class="MsoNormal"><b><span style="font-size: 12.0pt; font-family: 宋体">授予学位：</span></b><span style="font-size: 12.0pt; font-family: 宋体">工学学士。</span></p>
+<p class="MsoNormal">
+<span lang="EN-US" style="font-size: 12.0pt; font-family: 宋体">&nbsp;</span><b><span style="font-size: 12.0pt; font-family: 宋体">就业去向：</span></b><span style="font-size: 12.0pt; font-family: 宋体"> 
+大型三资企业、改制国有企业、先进民营企业及各类企、事业单位。</span></p>
+<p><a href="article/毕业生谈工业工程专业.doc">毕业生谈工业工程专业</a></p>
+<p><a href="article/教授谈工业工程专业.doc">教授谈工业工程专业</a></p>
+
+<!--msnavigation--></td><td valign="top" width="24"></td><td valign="top" width="1%">
+<div align="right">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="10" height="650" id="AutoNumber1">
+    <tr>
+      <td width="2" height="336" valign="bottom"></td>
+    </tr>
+  </table>
+</div>
+<p>　</p>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<p align="center"><a href="http://www.cueb.edu.cn/">CUEB</a> | xxxx</p>
+
+
+
+<p align="center">
+
+
+
+<font size=2>
+
+如有关于本站点的问题或建议，请向<a href="mailto:safedep@cueb.edu.cn">safedep@cueb.edu.cn</a>发邮件。<br>
+
+
+版权所有(C) 2005 安全与环境工程学院<br>
+
+
+上次修改时间：2005年09月11日
+
+</font>
+
+</p>
+
+</td></tr><!--msnavigation--></table></body>
+
+</html>

@@ -1,0 +1,47 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>教学录像</title>
+</head>
+
+<body stylesrc="right.htm" bgcolor="#16226E" text="#FFFFFF">
+
+<p>教学录像</p>
+
+<p>
+<object classid="clsid:6BF52A52-394A-11D3-B153-00C04F79FAA6" id="自认科学概论" width="320" height="280">
+  <param name="URL" value=".\movie.wmv">
+  <param name="rate" value="1">
+  <param name="balance" value="0">
+  <param name="currentPosition" value="0">
+  <param name="defaultFrame" value>
+  <param name="playCount" value="1">
+  <param name="autoStart" value="0">
+  <param name="currentMarker" value="0">
+  <param name="invokeURLs" value="-1">
+  <param name="baseURL" value>
+  <param name="volume" value="50">
+  <param name="mute" value="0">
+  <param name="uiMode" value="full">
+  <param name="stretchToFit" value="-1">
+  <param name="windowlessVideo" value="0">
+  <param name="enabled" value="-1">
+  <param name="enableContextMenu" value="-1">
+  <param name="fullScreen" value="0">
+  <param name="SAMIStyle" value>
+  <param name="SAMILang" value>
+  <param name="SAMIFilename" value>
+  <param name="captioningID" value>
+  <param name="enableErrorDialogs" value="-1">
+  <param name="_cx" value="8467">
+  <param name="_cy" value="7408">
+</object>
+</p>
+
+</body>
+
+</html>

@@ -1,0 +1,202 @@
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="Content-Language" content="zh-cn">
+
+<title>安全与环境工程学院</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+
+
+<meta name="Microsoft Border" content="tlrb, default">
+</head>
+
+<body background="_themes/mstheme31476/3.gif"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<div id="img" style="position:absolute;">
+<a href="http://agx.cueb.edu.cn" target="_blank">
+<img src="images/float.gif" border="0" width="200" height="200"></a>
+</div>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+var xPos = 20;
+var yPos = document.body.clientHeight;
+var step = 1;
+var delay = 30; 
+var height = 0;
+var Hoffset = 0;
+var Woffset = 0;
+var yon = 0;
+var xon = 0;
+var pause = true;
+var interval;
+img.style.top = yPos;
+function changePos() {
+width = document.body.clientWidth;
+height = document.body.clientHeight;
+Hoffset = img.offsetHeight;
+Woffset = img.offsetWidth;
+img.style.left = xPos + document.body.scrollLeft;
+img.style.top = yPos + document.body.scrollTop;
+if (yon) {
+yPos = yPos + step;
+}
+else {
+yPos = yPos - step;
+}
+if (yPos < 0) {
+yon = 1;
+yPos = 0;
+}
+if (yPos >= (height - Hoffset)) {
+yon = 0;
+yPos = (height - Hoffset);
+}
+if (xon) {
+xPos = xPos + step;
+}
+else {
+xPos = xPos - step;
+}
+if (xPos < 0) {
+xon = 1;
+xPos = 0;
+}
+if (xPos >= (width - Woffset)) {
+xon = 0;
+xPos = (width - Woffset);
+   }
+   }
+   function start() {
+   img.visibility = "visible";
+   interval = setInterval('changePos()', delay);
+   }
+   start();
+   //  End -->
+   </script>
+
+
+
+<p align="left">
+　</p>
+<p align="left">
+　</p>
+
+
+<p align="left">
+　</p>
+
+
+<p align="left">
+　</p>
+
+
+<p align="center">
+&nbsp;<br>
+
+</p>
+
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+
+<p>　</p>
+
+
+<p>　</p>
+
+
+<p style="margin-left: 92; margin-top: 50">
+<script language="JavaScript"><!--
+MSFPhover = 
+  (((navigator.appName == "Netscape") && 
+  (parseInt(navigator.appVersion) >= 3 )) || 
+  ((navigator.appName == "Microsoft Internet Explorer") && 
+  (parseInt(navigator.appVersion) >= 4 ))); 
+function MSFPpreload(img) 
+{
+  var a=new Image(); a.src=img; return a; 
+}
+// --></script><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav1n=MSFPpreload("_derived/home_cmp_mstheme31477010_vbtn_p.gif"); MSFPnav1h=MSFPpreload("_derived/home_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="index.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="_derived/home_cmp_mstheme31477010_vbtn_p.gif" width="155" height="35" border="0" alt="主页" name="MSFPnav1"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav2n=MSFPpreload("_derived/dzzw.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav2h=MSFPpreload("_derived/dzzw.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="dzzw.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src"><img src="_derived/dzzw.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="电子政务" name="MSFPnav2"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav3n=MSFPpreload("_derived/news.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav3h=MSFPpreload("_derived/news.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="news.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3h.src" onmouseout="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3n.src"><img src="_derived/news.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="学院新闻" name="MSFPnav3"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav4n=MSFPpreload("_derived/szll.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav4h=MSFPpreload("_derived/szll.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="szll.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src"><img src="_derived/szll.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="教师介绍" name="MSFPnav4"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav5n=MSFPpreload("_derived/zsjy.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav5h=MSFPpreload("_derived/zsjy.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="zsjy.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5h.src" onmouseout="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5n.src"><img src="_derived/zsjy.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="招生就业" name="MSFPnav5"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav6n=MSFPpreload("_derived/xsgz.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav6h=MSFPpreload("_derived/xsgz.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="xsgz.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6h.src" onmouseout="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6n.src"><img src="_derived/xsgz.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="学生工作" name="MSFPnav6"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav7n=MSFPpreload("_derived/lab.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav7h=MSFPpreload("_derived/lab.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="lab.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav7'].src=MSFPnav7h.src" onmouseout="if(MSFPhover) document['MSFPnav7'].src=MSFPnav7n.src"><img src="_derived/lab.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="实验中心" name="MSFPnav7"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav8n=MSFPpreload("_derived/kycg.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav8h=MSFPpreload("_derived/kycg.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="kycg.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav8'].src=MSFPnav8h.src" onmouseout="if(MSFPhover) document['MSFPnav8'].src=MSFPnav8n.src"><img src="_derived/kycg.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="科研成果" name="MSFPnav8"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav9n=MSFPpreload("_derived/corp.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav9h=MSFPpreload("_derived/corp.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="corp.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav9'].src=MSFPnav9h.src" onmouseout="if(MSFPhover) document['MSFPnav9'].src=MSFPnav9n.src"><img src="_derived/corp.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="公司概况" name="MSFPnav9"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav10n=MSFPpreload("_derived/zcag.htm_cmp_mstheme31477010_vbtn.gif"); MSFPnav10h=MSFPpreload("_derived/zcag.htm_cmp_mstheme31477010_vbtn_a.gif"); }
+// --></script><a href="zcag.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav10'].src=MSFPnav10h.src" onmouseout="if(MSFPhover) document['MSFPnav10'].src=MSFPnav10n.src"><img src="_derived/zcag.htm_cmp_mstheme31477010_vbtn.gif" width="155" height="35" border="0" alt="注册安全工程师培训" name="MSFPnav10"></a>
+</p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+<p class="MsoNormal" style="text-indent: 28.0pt">
+<img border="0" src="images/bian.JPG" width="300" height="226" align="right"></p>
+<p class="MsoNormal" style="text-indent: 28.0pt"><span style="font-family: 宋体">
+首都经济贸易大学安全与环境工程学院是在首都经济贸易大学安全工程系基础上建立起来的。</span></p>
+<p class="MsoNormal" style="text-indent: 28.0pt"><span style="font-family: 宋体">
+首都经济贸易大学安全工程系（原劳动保护系）始建于</span><span lang="EN-US">1956</span><span style="font-family: 宋体">年，是国内最早建立的安全工程专业高等教育办学点，并于</span><span lang="EN-US">1982</span><span style="font-family: 宋体">年获得劳动卫生与环境卫生学硕士学位授予权、</span><span lang="EN-US">1983</span><span style="font-family: 宋体">年获得安全技术及工程硕士学位授予权，在国内安全工程教育科研领域内有很高的声望。</span></p>
+<p class="MsoNormal" style="text-indent: 28.0pt"><span style="font-family: 宋体">
+安全与环境工程学院由安全工程系、环境工程系、工业工程系、基础课学科部、实验中心、安全生产培训中心、安全与环境科学技术研究所和北京经儒安环科技发展有限公司组成。</span></p>
+<p class="MsoNormal" style="text-indent: 28.0pt"><span style="font-family: 宋体">
+学院现有教职工</span><span lang="EN-US">40</span><span style="font-family: 宋体">余人，专职教师</span><span lang="EN-US">26</span><span style="font-family: 宋体">人，其中教授</span><span lang="EN-US">8</span><span style="font-family: 宋体">人，副教授</span><span lang="EN-US">10</span><span style="font-family: 宋体">人，讲师及助教</span><span lang="EN-US">8</span><span style="font-family: 宋体">人；专职教师中博士</span><span lang="EN-US">6</span><span style="font-family: 宋体">人；硕士</span><span lang="EN-US">12</span><span style="font-family: 宋体">人。学院实行多层次办学，现拥有“安全工程”、“环境工程”、“工业工程”和“工程管理”四个本科专业，可授予工学学士和管理学学士学位；拥有“安全技术及工程”、“劳动卫生与环境卫生学”和“管理科学与工程”三个专业的硕士学位授予权。</span></p>
+<p class="MsoNormal" style="text-indent: 28.0pt"><span style="font-family: 宋体">
+作为在全国最早的安全卫生类办学单位，在长期的办学过程中形成了我们独特的学科优势和特色。教学模式上，区别于单一行业的局部安全，而是定位在跨行业、跨部门的通用安全，在全国安全工程高等教育中独树一帜；科学研究上，一方面承担了一批省部级科研课题，其中获省部级科技进步奖多项，另一方面广泛为社会服务，完成了大量横向课题，取得了巨大的社会效益。学院历史上一直作为中国职业安全健康协会常务理事单位活跃在安全与环境工程学术界，目前中国职业安全健康协会防毒专业委员会挂靠在我学院。</span></p>
+<p><span style="font-family: 宋体">
+历史的积淀，“通才”安全教育的模式，自主知识产权的教材，知识门类范围齐全的师资队伍，以及紧密为社会服务的横向课题，这些特色构成我们在同类高等教育机构本学科内的比较优势，其品牌效应形成了我们的核心竞争力。目前，学院正向着提高教育教学质量，培养造就合格人才；增强科技创新能力，提升核心竞争力；拓宽业务领域，努力为社会提供优质服务的目标努力迈进。</span></p>
+
+<p align="center"><span style="font-size: 14.0pt; font-family: 宋体">
+<a target="_blank" href="tici.htm">领导题词</a>&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="zici.htm">领导致词</a></span></p>
+
+<!--msnavigation--></td><td valign="top" width="24"></td><td valign="top" width="1%">
+<div align="right">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="10" height="650" id="AutoNumber1">
+    <tr>
+      <td width="2" height="336" valign="bottom"></td>
+    </tr>
+  </table>
+</div>
+<p>　</p>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<p align="center"><a href="http://www.cueb.edu.cn/">CUEB</a> | xxxx</p>
+
+
+
+<p align="center">
+
+
+
+<font size=2>
+
+如有关于本站点的问题或建议，请向<a href="mailto:safedep@cueb.edu.cn">safedep@cueb.edu.cn</a>发邮件。<br>
+
+
+版权所有(C) 2005 安全与环境工程学院<br>
+
+
+上次修改时间：2005年09月11日
+
+</font>
+
+</p>
+
+</td></tr><!--msnavigation--></table></body>
+</html>
