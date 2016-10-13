@@ -1,0 +1,11 @@
+[info]
+refcount=5
+version=1.20
+readonly=0
+codepage=65001
+format=2
+title=中国青瓷 的副本
+[titles]
+2052=中国青瓷 的副本
+[Fonts]
+gb2312, ARIAL, HELVETICA=Arial, Helvetica
