@@ -164,7 +164,7 @@ http://www.其他.com<br>
 <p class="MsoNormal" style="text-indent: 28.0pt"><span style="font-family: 宋体">
 <font size="3"><b>输入：</b></font></span></p>
 <p class="MsoNormal" style="margin-left: 28.0pt">
-<textarea id="inputText" rows="10" cols="60"></textarea>
+<textarea id="inputText" rows="10" cols="60" style="width: 95%;"></textarea>
 </p>
 <p class="MsoNormal" style="text-indent: 28.0pt">
 <input type="button" value="转换" onclick="convertText()" style="font-size: 14pt; padding: 5px 20px;">
@@ -173,7 +173,7 @@ http://www.其他.com<br>
 <p class="MsoNormal" style="text-indent: 28.0pt"><span style="font-family: 宋体">
 <font size="3"><b>输出：</b></font></span></p>
 <p class="MsoNormal" style="margin-left: 28.0pt">
-<textarea id="outputText" rows="10" cols="60" readonly></textarea>
+<textarea id="outputText" rows="10" cols="60" readonly style="width: 95%;"></textarea>
 </p>
 <p class="MsoNormal" style="text-indent: 28.0pt">
 <input type="button" value="复制" onclick="copyResult()" style="font-size: 12pt; padding: 5px 15px;">
@@ -181,55 +181,103 @@ http://www.其他.com<br>
 <input type="button" value="导出 JSON" onclick="exportJson()" style="font-size: 12pt; padding: 5px 15px;">
 </p>
 
-<script language="JavaScript">
+<script type="text/javascript">
 function convertText() {
-  var input = document.getElementById('inputText').value;
-  var lines = input.split('\n');
-  var urls = [];
-  var currentName = '';
-  
-  for (var i = 0; i < lines.length; i++) {
-    var line = lines[i].trim();
-    if (line === '') continue;
-    
-    if (line.startsWith('★')) {
-      currentName = line.substring(1);
-    } else if (line.startsWith('http') && currentName !== '') {
-      urls.push({
-        url: line,
-        name: currentName
-      });
-      currentName = '';
+  try {
+    var input = document.getElementById('inputText').value;
+    if (!input.trim()) {
+      alert('请输入内容！');
+      return;
     }
+    
+    var lines = input.split('\n');
+    var urls = [];
+    var currentName = '';
+    
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i].trim();
+      if (line === '') continue;
+      
+      if (line.indexOf('★') === 0) {
+        currentName = line.substring(1);
+      } else if (line.indexOf('http') === 0 && currentName !== '') {
+        urls.push({
+          url: line,
+          name: currentName
+        });
+        currentName = '';
+      }
+    }
+    
+    var result = {
+      urls: urls
+    };
+    
+    var output = JSON.stringify(result, null, 2);
+    document.getElementById('outputText').value = output;
+    
+    if (urls.length === 0) {
+      alert('未找到匹配的格式，请确保格式正确：\n★名称\n网址');
+    }
+  } catch (e) {
+    alert('转换出错：' + e.message);
   }
-  
-  var result = {
-    urls: urls
-  };
-  
-  document.getElementById('outputText').value = JSON.stringify(result, null, 2);
 }
 
 function copyResult() {
-  var output = document.getElementById('outputText');
-  output.select();
-  document.execCommand('copy');
-  alert('已复制到剪贴板！');
+  try {
+    var output = document.getElementById('outputText');
+    if (!output.value) {
+      alert('没有内容可以复制！');
+      return;
+    }
+    
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(output.value).then(function() {
+        alert('已复制到剪贴板！');
+      }).catch(function() {
+        fallbackCopy(output);
+      });
+    } else {
+      fallbackCopy(output);
+    }
+  } catch (e) {
+    alert('复制失败：' + e.message);
+  }
+}
+
+function fallbackCopy(textarea) {
+  textarea.select();
+  textarea.setSelectionRange(0, 99999);
+  try {
+    document.execCommand('copy');
+    alert('已复制到剪贴板！');
+  } catch (e) {
+    alert('复制失败，请手动选择文本复制');
+  }
 }
 
 function exportJson() {
-  var output = document.getElementById('outputText').value;
-  if (output === '') {
-    alert('请先转换内容！');
-    return;
+  try {
+    var output = document.getElementById('outputText').value;
+    if (!output) {
+      alert('请先转换内容！');
+      return;
+    }
+    
+    var blob = new Blob([output], { type: 'application/json;charset=utf-8' });
+    var url = URL.createObjectURL(blob);
+    var link = document.createElement('a');
+    link.href = url;
+    link.download = '仓库接口.json';
+    link.style.display = 'none';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
+  } catch (e) {
+    alert('导出失败：' + e.message);
   }
-  var blob = new Blob([output], { type: 'application/json' });
-  var url = URL.createObjectURL(blob);
-  var a = document.createElement('a');
-  a.href = url;
-  a.download = '仓库接口.json';
-  a.click();
-  URL.revokeObjectURL(url);
 }
 </script>
 
